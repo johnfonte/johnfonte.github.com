@@ -122,13 +122,13 @@ Jekyll expects your website directory to be laid out like so:
 	The assets folder represents _any generic_ folder you happen to create in your root directory.
 	Directories and files not properly formatted for jekyll will be left untouched for you to serve normally.
 
-(read more: <https://github.com/mojombo/jekyll/wiki/Usage>)
+(read more: https://github.com/mojombo/jekyll/wiki/Usage)
 
 
 ### Jekyll Configuration
 
 Jekyll supports various configuration options that are fully outlined here:
-<https://github.com/mojombo/jekyll/wiki/Configuration>
+https://github.com/mojombo/jekyll/wiki/Configuration
 
 
 
@@ -395,7 +395,7 @@ Remember, in Jekyll you are an end-user. Your API has only two components:
 2. The liquid syntax and variables passed into the liquid templates.
 
 All the data objects available to you in the templates via Liquid are outlined in the **API Section** of Jekyll-Bootstrap.
-You can also read the original documentation here: <https://github.com/mojombo/jekyll/wiki/Template-Data>
+You can also read the original documentation here: https://github.com/mojombo/jekyll/wiki/Template-Data
 
 ## Conclusion
 
