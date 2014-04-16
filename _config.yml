@@ -13,9 +13,8 @@ tagline: GL HF GG
 author :
   name : John Fonte
   email : john@fonte.com
-  github : johnpfonte
+  github : johnfonte
   twitter : johnpfonte
-  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
