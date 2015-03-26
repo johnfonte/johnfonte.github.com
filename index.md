@@ -4,9 +4,11 @@ title: Software, Ultimate, and more
 ---
 {% include JB/setup %}
 
-## True Full-Stack development for the sole developer
+So glad you could make it! My name is John Fonte, and I'm a software engineer based in Ann Arbor, MI.
 
-I've developed a tech stack viable for quick setup of informational websites. I work with clients to ensure their exact vision is created, for a fraction of the cost. I'm interested in helping freelance developers create a viable plan for long-term business.
+I'm writing about my three passions - Software Development, Ultimate Frisbee, and Freelancing.
+
+Follow me on Twitter or shoot me an email if you'd like to chat!
 
 <ul class="posts">
   {% for post in site.posts %}
