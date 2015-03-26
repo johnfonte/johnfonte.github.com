@@ -1,7 +1,6 @@
 ---
 layout: page
-title: John Fonte | Software, Ultimate, and more
-tagline: Software, Ultimate, and more
+title: Software, Ultimate, and more
 ---
 {% include JB/setup %}
 
