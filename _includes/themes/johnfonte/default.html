@@ -32,7 +32,6 @@
   <body>
     <div class="container">
       <h1 class="light"><a href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
-      <hr>
       <div class="nav">
         <ul class="nav">
           {% assign pages_list = site.pages %}
@@ -40,7 +39,6 @@
           {% include JB/pages_list %}
         </ul>
       </div>
-      <hr>
       <div class="content">
         {{ content }}
       </div>
