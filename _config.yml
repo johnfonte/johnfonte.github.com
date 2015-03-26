@@ -129,3 +129,6 @@ JB :
 
 pages_list :
   provider : "custom"
+  Projects: '/projects'
+  Thoughts: '/blog'
+  Contact: '/contact'
