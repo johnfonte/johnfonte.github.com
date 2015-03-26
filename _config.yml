@@ -127,8 +127,7 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
 
-pages :
-  group : "navigation"
-    Projects: '/projects'
-    Thoughts: '/blog'
-    Contact: '/contact'
+pages:
+  Projects: '/projects'
+  Thoughts: '/blog'
+  Contact: '/contact'
