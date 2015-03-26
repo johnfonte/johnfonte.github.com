@@ -129,6 +129,6 @@ JB :
 
 pages:
   group: 'navigation'
-    Projects: '/projects'
-    Thoughts: '/blog'
-    Contact: '/contact'
+    Projects: '/projects/'
+    Thoughts: '/blog/'
+    Contact: '/contact/'
