@@ -37,6 +37,7 @@ div.nav {
 	border-bottom: 1px solid #e1e1e1;
 }
 ul.nav li, ul.nav li a {
+	text-transform: uppercase;
 	text-decoration: none;
 	list-style: none;
 	display: inline-block;
