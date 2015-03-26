@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : John Fonte's Blog
-tagline: Software, Ultimate, and more
+title : John Fonte
+tagline: "Software, Ultimate, and more"
 author :
   name : John Fonte
   email : john@fonte.com

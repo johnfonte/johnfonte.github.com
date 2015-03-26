@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: John Fonte
+tagline: Software, Ultimate, and more
 ---
 {% include JB/setup %}
 
