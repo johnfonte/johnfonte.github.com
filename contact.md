@@ -8,6 +8,6 @@ group: navigation
 
 ## Contact Info
 
-You can email me at <a href="#">john@fonte.com</a>.
+You can email me at [john@fonte.com](# "john@fonte.com").
 
-Or, find me on <a href="http://twitter.com/{{ site.author.twitter }}">Twitter</a>.
+Or, find me on [Twitter](http://twitter.com/{{ site.author.twitter }}).
