@@ -8,6 +8,8 @@ group: navigation
 
 ## Contact Info
 
-You can email me at [john@fonte.com](# "john@fonte.com").
+Your best option is to email me at [john@fonte.com](mailto:john@fonte.com "john@fonte.com").
 
 Or, find me on [Twitter](http://twitter.com/{{ site.author.twitter }}).
+
+For technical background, look at my [GitHub](https://github.com/johnfonte) or [LinkedIn](https://linkedin.com/pub/johnfonte).
