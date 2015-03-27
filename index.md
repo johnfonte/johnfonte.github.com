@@ -4,7 +4,7 @@ title: Software, Ultimate, and more
 ---
 {% include JB/setup %}
 
-So glad you could make it! My name is John Fonte, and I'm a software engineer based in Ann Arbor, MI.
+Hi! My name is John Fonte, and I'm a software engineer based in Ann Arbor, MI.
 
 I'm writing about my three passions - Software Development, Ultimate Frisbee, and Freelancing.
 
