@@ -40,7 +40,7 @@ div.nav {
 	border-top: 1px solid #e1e1e1;
 	border-bottom: 1px solid #e1e1e1;
 }
-ul.nav li, ul.nav li a {
+ul.nav li, ul.pagination li {
 	text-transform: uppercase;
 	display: inline-block;
 	margin-right: 10px;
