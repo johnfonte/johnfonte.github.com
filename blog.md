@@ -7,11 +7,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
-{% for category_name in site.categories %}
-  <h2>{{ category_name }}</h2>
-  <ul>
-      {% for post in site.categories[category_name] %}
-          <li>{{ post.title }}</li>
+{% for category in site.categories %}
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    {% for posts in category %}
+      {% for post in posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
-  </ul>
+    {% endfor %}
+    </ul>
+  </li>
 {% endfor %}
