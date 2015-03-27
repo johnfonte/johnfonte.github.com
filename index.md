@@ -6,6 +6,6 @@ title: Software, Ultimate, and more
 
 Hi! My name is John Fonte, and I'm a software engineer based in Ann Arbor, MI.
 
-I'm [writing](/blog) about my three passions - Software Development, Ultimate Frisbee, and Freelancing.
+I'm [writing]({{ HOME_BASE }}/blog) about my three passions - Software Development, Ultimate Frisbee, and Freelancing.
 
 Follow me on [Twitter](http://twitter.com/{{ site.author.twitter }}) or shoot me an email if you'd like to chat!

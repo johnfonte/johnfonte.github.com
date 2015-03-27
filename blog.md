@@ -1,7 +1,7 @@
 ---
 layout: page
 title : My Thoughts
-header : Post Archive
+header : All Posts
 short_title: Thoughts
 group: navigation
 ---
