@@ -18,7 +18,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', sans-serif;
-  color: #6484A0;
+  color: #1B3953;
 }
 .nav {
 	font-family: 'Open Sans', sans-serif;
@@ -34,7 +34,7 @@ a {
 	text-decoration: none;
 	color: #6484A0;
 }
-.header, a:hover {
+h1.header, a:hover {
   color: #ff5252;
 }
 
