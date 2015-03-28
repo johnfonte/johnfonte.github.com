@@ -22,7 +22,7 @@ My most recent sole developer project, M-Fly is an SAE Aero Design team from the
 
 ### [Sustainability International](http://sustainabilityinternational.org)
 
-I designed this to focus on the beauty of nature in photos.Sustainability International encourages sustainable living practices in housing complexes.
+I designed this to focus on the beauty of nature in photos. Sustainability International encourages sustainable living practices in housing complexes.
 
 ### [Golf BMP Solutions](http://golfbmpsolutions.com)
 
