@@ -34,7 +34,7 @@ a {
 	text-decoration: none;
 	color: #6484A0;
 }
-h1.header, a:hover {
+.header, a:hover {
   color: #ff5252;
 }
 
