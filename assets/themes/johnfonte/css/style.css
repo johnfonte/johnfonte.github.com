@@ -17,14 +17,16 @@ body {
   color: #344553;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Open Sans Light', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: #1B3953;
+  font-weight: normal;
 }
 .nav {
 	font-family: 'Open Sans', sans-serif;
 	padding: 0;
 }
 h1.header {
+  font-family: 'Open Sans Light', sans-serif;
   font-weight: normal;
   letter-spacing: .05em;
 }
