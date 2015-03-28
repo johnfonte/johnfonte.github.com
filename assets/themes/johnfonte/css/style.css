@@ -1,6 +1,7 @@
 html,
 body {
   background-color:#fcfcfc;
+  color: #344553;
   font-family: 'Merriweather', serif;
   height: 100%;
   margin: 0;
@@ -8,9 +9,16 @@ body {
   -webkit-overflow-scrolling:touch
 }
 
+.red {
+  color: #ff5252;
+}
+
+.blue {
+  color: #344553;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', sans-serif;
-  color: #444;
+  color: #ff5252;
 }
 .nav {
 	font-family: 'Open Sans', sans-serif;
@@ -24,7 +32,10 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
 	text-decoration: none;
-	color: #2980B9;
+	color: #84AED3;
+}
+a:hover {
+  color: #ff5252;
 }
 
 li {
