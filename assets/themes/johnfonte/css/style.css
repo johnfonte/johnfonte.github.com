@@ -1,7 +1,7 @@
 html,
 body {
   background-color:#fcfcfc;
-  color: #344553;
+  color: #445B6D;
   font-family: 'Merriweather', serif;
   height: 100%;
   margin: 0;
@@ -33,7 +33,7 @@ h1.header {
 
 a {
 	text-decoration: none;
-	color: #6484A0;
+	color: #6C90AC;
 }
 a.header, a:hover {
   color: #D05151;
