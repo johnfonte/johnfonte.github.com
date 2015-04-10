@@ -15,18 +15,12 @@ group: navigation
 {% for category in site.categories %} 
   <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
   <ul>
-    {% assign pages_list = category[1] %}  
-    {% include JB/pages_list %}
+    {% assign pages_list = category[1] %} 
   </ul>
 {% endfor %}
 
 {% include JB/posts_collate %}
 
-<h2>All Pages</h2>
-<ul>
-{% assign pages_list = site.pages %}
-{% include JB/pages_list %}
-</ul>
 
 {% for category in site.categories %}
   <h3>{{ category | first }}</h3>
