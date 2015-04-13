@@ -2,6 +2,7 @@
 layout: page
 title : Blog
 header : All Posts
+permalink : /blog
 group: navigation
 ---
 {% include JB/setup %}
