@@ -38,13 +38,16 @@ a {
 a.header, a:hover {
   color: #D05151;
 }
+a:hover {
+  text-decoration: underline;
+}
 
 li {
   list-style: none;
 }
 
 li.prev.disabled a:hover, li.next.disabled a:hover {
-  color: #445B6D;
+  color: #6C90AC;
 }
 
 hr {
