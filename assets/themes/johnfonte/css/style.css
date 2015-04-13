@@ -43,7 +43,7 @@ li {
   list-style: none;
 }
 
-li.prev.disabled, li.next.disabled {
+li.prev.disabled:hover, li.next.disabled:hover {
   color: #445B6D;
 }
 
