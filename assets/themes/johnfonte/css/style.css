@@ -43,6 +43,10 @@ li {
   list-style: none;
 }
 
+li.prev.disabled, li.next.disabled {
+  color: #445B6D;
+}
+
 hr {
 	height: 0;
 	border-width: 0;
