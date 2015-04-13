@@ -48,6 +48,7 @@ li {
 
 li.prev.disabled a:hover, li.next.disabled a:hover {
   color: #6C90AC;
+  text-decoration: none;
 }
 
 hr {
