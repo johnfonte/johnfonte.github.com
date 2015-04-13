@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Freelance Projects
+title: Projects
 short_title: Projects
 group: navigation
 ---
 {% include JB/setup %}
 
-## True Full-Stack development for the sole developer
+## Freelance Web Development
 
-I've developed a tech stack viable for quick setup of informational websites. I work with clients to ensure their exact vision is created, for a fraction of the cost. I'm interested in helping freelance developers create a viable plan for long-term business.
+I've developed a tech stack viable for quick setup of informational websites. I work with clients to ensure their exact vision is created, for a fraction of the cost. In addition, I am focused on a startup where I help manage the server, database, and Android application.
 
-## Web Design Projects
+## Freelance Projects
 
 ### [SetMine](http://setmine.com)
 
@@ -22,7 +22,7 @@ My most recent sole developer project, M-Fly is an SAE Aero Design team from the
 
 ### [Sustainability International](http://sustainabilityinternational.org)
 
-I designed this to focus on the beauty of nature in photos. Sustainability International encourages sustainable living practices in housing complexes.
+This website focuses on the beauty of nature in photos. Sustainability International encourages sustainable living practices in housing complexes.
 
 ### [Golf BMP Solutions](http://golfbmpsolutions.com)
 

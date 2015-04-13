@@ -1,8 +1,8 @@
 ---
 layout: page
-title : My Thoughts
+title : Blog
 header : All Posts
-short_title: Thoughts
+short_title: Blog
 group: navigation
 ---
 {% include JB/setup %}
