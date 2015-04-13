@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Contact Info
-short_title: Contact
+title: Contact
 group: navigation
 ---
 {{ include JB/setup }}

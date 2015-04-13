@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-short_title: Projects
 group: navigation
 ---
 {% include JB/setup %}

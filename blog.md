@@ -2,7 +2,6 @@
 layout: page
 title : Blog
 header : All Posts
-short_title: Blog
 group: navigation
 ---
 {% include JB/setup %}
