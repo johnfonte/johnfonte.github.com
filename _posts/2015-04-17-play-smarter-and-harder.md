@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Play Smarter And Harder"
+description: "Core concepts of player development in Ultimate Frisbee"
 category: Ultimate
 tags: ["ultimate", "magnum", "spoiler"]
 ---
@@ -25,5 +26,3 @@ These two concepts, though I never wrote them down, accelerated my player develo
 ## Magnum Ultimate - Part II
 
 In Fall 2013, I tried out for MagnUM once more. I immediately saw the benefits of my summer with Spoiler and how I approached the game. While I knew my athleticism needed some work, I had made the progress I wanted in body positioning and knowledge of the game. I joined MagnUM Reserve.
-
-Player development is crucial for any sport. It's important to be thoughtful and focused on the practice field.
