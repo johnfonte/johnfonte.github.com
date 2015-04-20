@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Inspiration, Passion, and Consistency"
-description: ""
-category: Software
-tags: []
+description: "Three keys to success"
+category: Life
+tags: ["success"]
 ---
 {% include JB/setup %}
 
