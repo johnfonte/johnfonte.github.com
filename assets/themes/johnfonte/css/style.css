@@ -43,7 +43,7 @@ a:hover {
 }
 
 li {
-  list-style: none;
+  /*list-style: none;*/
 }
 
 li.prev.disabled a:hover, li.next.disabled a:hover {
