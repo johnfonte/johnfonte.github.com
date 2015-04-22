@@ -46,6 +46,6 @@ I've been using Trello for about a month now, and it's helping me stay on task m
 
 Use any method of organization that accelerates your progress towards your personal goals! If you use Trello:
 
-Keep tasks short and achievable.
-Throw away things you are tired of seeing; you'll think of them again later.
-Reorganize whenever you feel overwhelmed.
+- Keep tasks short and achievable.
+- Throw away things you are tired of seeing; you'll think of them again later.
+- Reorganize whenever you feel overwhelmed.
