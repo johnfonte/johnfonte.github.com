@@ -29,7 +29,7 @@ Now, I have goals that are more clear and actionable. I found that a general goa
 
 I have to give credit to [John Sonmez](http://simpleprogrammer.com), whose article [My Secret to Ridiculous Productivity](http://simpleprogrammer.com/2014/02/17/secret-ridiculous-productivity-im-using-now/) helped me to realize that planning is the key to success. I don't use the [Pomodoro Technique](http://pomodorotechnique.com/get-started/) yet, but I have found his advice valuable in relieving stress and accomplishing tasks.
 
-Since reading that article, I've seen the largest increase in my productivity and focus ever. When I took notes in the past, they were more of a memory flush than an organizational tool. I've replaced note-taking with [Trello](https://trello.com/johnfonte/recommend), which helps me organize my work, goals, and next steps. This system leads to consistent and focused activity every day. (Disclaimer: That's a recommendation link!)
+Since reading that article, I've seen the largest increase in my productivity and focus ever. When I took notes in the past, they were more of a memory flush than an organizational tool. I've replaced note-taking with [Trello](https://trello.com), which helps me organize my work, goals, and next steps. This system leads to consistent and focused activity every day.
 
 ##  Thank You
 
