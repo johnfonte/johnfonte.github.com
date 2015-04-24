@@ -83,7 +83,6 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
-  blog_path : /blog
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
