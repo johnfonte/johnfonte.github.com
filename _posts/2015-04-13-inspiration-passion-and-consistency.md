@@ -10,7 +10,7 @@ tags: ["success"]
 ## Welcome
 
 Thanks for taking the time out of your day to read my simple blog. I hope to discover a great deal about myself here, and I'd like your help.
-
+<!--more-->
 I believe three simple things lead to success - Inspiration, Passion, and Consistency.
 
 ## Inspiration

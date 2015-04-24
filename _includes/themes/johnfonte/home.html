@@ -29,9 +29,8 @@
   <body>
     <div class="container">
       <h1 class="header"><a class="header" href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
-        <a class="contact" target="_blank" href="http://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a>
-        <a class="contact" target="_blank" href="mailto:{{site.author.email}}">{{site.author.email}}</a>
-        <a class="contact" href="/about">about me</a>
+	      <div><a class="contact" href="http://twitter.com/{{ site.author.twitter }}">{{ site.author.twitter }}</a><a class="contact" href="mailto:{{site.author.email}}">{{site.author.email}}</a>
+	  </div>
       <div class="content">
         {{ content }}
       </div>

@@ -16,6 +16,11 @@ body {
 .blue {
   color: #344553;
 }
+.contact {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Open Sans', sans-serif;
   color: #1B3953;
@@ -50,6 +55,9 @@ li.prev.disabled a:hover, li.next.disabled a:hover {
   color: #6C90AC;
   text-decoration: none;
 }
+.next {
+  float: right;
+}
 
 hr {
 	height: 0;
@@ -69,7 +77,9 @@ ul.nav li, ul.pagination li {
 .container {
 	margin: 0 auto;
 }
-
+.pagination {
+  margin: 10px auto;
+}
 @media (max-width: 760px) {
   .container {
     width: 85%;

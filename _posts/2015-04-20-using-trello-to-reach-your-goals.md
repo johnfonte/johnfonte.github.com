@@ -10,7 +10,7 @@ tags: ["trello", "organization"]
 ## Trello: A powerful organizational tool
 
 [Trello](https://trello.com) is a piece of software built to be more powerful than your average to-do list. With Trello, visual design and interaction is very smooth and feels natural. Reorganizing your tasks is so much easier than separate to-do lists. Anything you want to get done can be organized just how you want. This leaves a lot of room for error, but I'll give you some tips to get started.
-
+<!--more-->
 As an individual user, all of your Trello content is your own. This means you need to set it up to be the most efficient thing for you. If you are paging through a list of far-off tasks to get to a task that will take 5 minutes, Trello is not working for you as an effective tool. Keep tasks **short** and **achievable**.
 
 To me, archiving is the equivalent of "out of sight, out of mind". Once I archive something, I forget about it. If it's important, I'll think of it again and add it to the board. If not, it really is finished and you don't need to see it. I trust myself more and more often to think of things that need doing in a timely manner.

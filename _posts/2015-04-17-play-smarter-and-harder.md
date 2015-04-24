@@ -10,7 +10,7 @@ tags: ["ultimate", "magnum", "spoiler"]
 ## MagnUM Ultimate - Part I
 
 From Fall 2010 to Fall 2012, I tried out for Michigan MagnUM Ultimate three times. Each year, I played in ultimate leagues during the summer and fall, trying to improve. Each year, I didn't make the team.
-
+<!--more-->
 In summer 2013, I played for Spoiler, the Ann Arbor club men's team. The first summer with Spoiler was one of the most difficult phases in my ultimate career. I was bottom of the roster, and I hated it. Every other player had a huge experience advantage over me. At every practice, I was targeted and exploited for my lower skill level. Guys would throw to the player I defended, and bait my teammates into dumping me the disc so I would turn it over. (Side note: this is in no way an attack on my teammates. Any good competitive player will exploit bad matchups.)
 
 ## Opportunity for Improvement
