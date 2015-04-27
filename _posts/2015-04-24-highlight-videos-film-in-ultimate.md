@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-Highlight videos & film in Ultimate
+## Video is a powerful tool
 
 The primary reason I started watching highlight videos was to get excited about my upcoming game. But the more I thought about it, I realized that I could use game replays to improve my game as well. To improve in a mainstream sport, it is understood that you must watch a lot of video related to your sport. This will help you to learn about new possibilities and strategies. It's the same in Ultimate, where watching good players will usually show you some new tricks.
 <!--more-->
