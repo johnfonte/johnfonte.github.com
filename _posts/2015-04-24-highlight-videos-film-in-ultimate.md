@@ -10,7 +10,7 @@ tags: []
 Highlight videos & film in Ultimate
 
 The primary reason I started watching highlight videos was to get excited about my upcoming game. But the more I thought about it, I realized that I could use game replays to improve my game as well. To improve in a mainstream sport, it is understood that you must watch a lot of video related to your sport. This will help you to learn about new possibilities and strategies. It's the same in Ultimate, where watching good players will usually show you some new tricks.
-
+<!--more-->
 Ultimate is a relatively new sport. This correlates to a low amount of video recordings. Here's a list of the best types of videos to watch, search for these keywords on YouTube:
 
 - NexGen Tour (a true step forward in the filmography of Ultimate)
