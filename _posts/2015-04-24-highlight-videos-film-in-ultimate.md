@@ -33,7 +33,7 @@ I'm sure you can find your own from related videos. Here are a few of my favorit
 - [https://www.youtube.com/watch?v=TdRh4O-RKZA](Justin Allen Callahan 2014)
 - [https://www.youtube.com/watch?v=nUia5quPnBk](Dylan Freechild- Callahan Nominee 2013)
 - [https://www.youtube.com/watch?v=i2v2eBggEHQ](Jimmy Mickle For Callahan 2014)
-- [https://www.youtube.com/watch?v=WU5g27iFEo8](Highlight | Layout Grab from Freespeed vs Furious George)
+- [https://www.youtube.com/watch?v=WU5g27iFEo8](Layout Grab from Freespeed vs Furious George)
 - [https://www.youtube.com/watch?v=p3wibdrXG5c](Stanley Peterson - "Amazing Ultimate Frisbee Catch")
 - [https://www.youtube.com/watch?v=bM75sruqOXw](Josh Zipperstein Layout Number One [WARNING: VOLUME])
 - [https://www.youtube.com/watch?v=DO2g0YVgsuY](Stanley Peterson (Colorado) Defensive Block)
