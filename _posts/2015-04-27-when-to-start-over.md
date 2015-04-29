@@ -2,6 +2,8 @@
 layout: post
 title: "When to Start Over"
 description: ""
+category: Software
+tags: ["rebuilding", "architecture", "prototyping", "technical debt"]
 ---
 {% include JB/setup %}
 
