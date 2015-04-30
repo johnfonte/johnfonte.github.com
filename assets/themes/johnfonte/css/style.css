@@ -35,7 +35,19 @@ h1.header {
   font-weight: normal;
   letter-spacing: .05em;
 }
-
+div.quick > img {
+  float: left;
+  border-radius: 20px;
+}
+div.quick > p {
+  margin-left: 50px;
+}
+div.contact > div > a > i{
+  margin-right: 10px;
+}
+h5 {
+  margin: 0;
+}
 a {
 	text-decoration: none;
 	color: #6C90AC;
@@ -82,11 +94,26 @@ ul.nav li, ul.pagination li {
 }
 @media (max-width: 760px) {
   .container {
-    width: 85%;
+    width: 80%;
   }
 }
 @media (min-width: 760px) {
   .container {
-    width: 700px;
+    width: 610px;
+  }
+  .sidebar {
+    display: block;
+    width: 50px;
+    margin-left: 5px;
+  }
+}
+@media (min-width: 960px) {
+  .container {
+    width: 610px;
+  }
+  .sidebar {
+    display: block;
+    width: 50px;
+    margin-left: 5px;
   }
 }

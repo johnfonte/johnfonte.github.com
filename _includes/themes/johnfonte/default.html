@@ -10,7 +10,7 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
@@ -29,9 +29,12 @@
   <body>
     <div class="container">
       <h1 class="header"><a class="header" href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
-        <a class="contact" href="http://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a>
-        <a class="contact" href="mailto:{{site.author.email}}">{{site.author.email}}</a>
-        <a class="contact" href="/about">about me</a>
+      <div class="quick">
+        {{ site.author.email | gravatar }}
+        {% markdown JB/blurb %}
+      </div>
+      {% include JB/contact %}
+      <hr>
       <div class="content">
         {{ content }}
       </div>

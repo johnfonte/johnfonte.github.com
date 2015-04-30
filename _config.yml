@@ -19,12 +19,20 @@ author :
   github : johnfonte
   twitter : johnpfonte
   linkedin : johnfonte
+  instagram : johnpfonte
 
 categories:
   Software
   Ultimate
   Freelance
   Life
+
+gravatar:
+#       default_image: mm
+      size: 40
+#       rating: g
+#       secure: true
+#       force: y
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
