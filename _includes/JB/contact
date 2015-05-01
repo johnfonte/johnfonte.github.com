@@ -2,15 +2,15 @@
 	<div id="per" style="float: left;">
 		<h5>PERSONAL</h5>
 		<div style="clear: both;"></div>
-		<a href="mailto:john/at/fonte.com">{% icon fa-envelope %}</a>
-		<a href="https://twitter.com/{{ site.author.twitter }}">{% icon fa-twitter %}</a>
-		<a href="https://instagram.com/{{ site.author.instagram }}">{% icon fa-instagram %}</a>
+		<a href="mailto:john/at/fonte.com"><i class="fa fa-envelope"></i></a>
+		<a href="https://twitter.com/johnpfonte"><i class="fa fa-twitter"></i></a>
+		<a href="https://instagram.com/johnpfonte"><i class="fa fa-instagram"></i></a>
 	</div>
 	<div id="pro" style="float: left; margin-left: 20px;">
 		<h5>PROFESSIONAL</h5>
 		<div style="clear: both;"></div>
-		<a href="https://github.com/{{ site.author.github }}">{% icon fa-github %}</a>
-		<a href="https://linkedin.com/pub/{{ site.author.linkedin }}">{% icon fa-linkedin %}</a>
-		<a href="http://johnfonte.com/files/resume.pdf">{% icon fa-file-pdf-o %}</a>
+		<a href="https://github.com/johnfonte"><i class="fa fa-github"></i></a>
+		<a href="https://linkedin.com/pub/johnfonte"><i class="fa fa-linkedin"></i></a>
+		<a href="http://johnfonte.com/files/resume.pdf"><i class="fa fa-file-pdf-o"></i></a>
 	</div>
 </div>
