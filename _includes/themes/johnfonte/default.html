@@ -28,12 +28,18 @@
 
   <body>
     <div class="container">
-      <h1 class="header"><a class="header" href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
-      <div class="quick">
-        {{ site.author.email | gravatar }}
-        {% markdown JB/blurb %}
+      <div class="nav">
+        <h1 class="header"><a class="header" href="{{ HOME_PATH }}">{{ site.title }}</a></h1>
+        <h4 id="info">MORE</h4>
+        <h4>TOP</h4>
       </div>
-      {% include JB/contact %}
+      <div class="info">
+        <div class="quick">
+          <img class="gravatar" src="http://www.gravatar.com/avatar/f82dfeeef9a788dc2a9cbc0b8a7c2fb4?s=40">
+          <p>Hi! I’m John Fonte, a software engineer for <a href="http://learninga-z.com">Learning A-Z</a>. I <a href="http://umich.edu/~mfly">build</a> <a href="http://sustainabilityinternational.org">custom</a> <a href="http://golfbmpsolutions.com">websites</a> and hack on <a href="https://www.hackerleague.org/hackathons/pennapps-spring-2013/hacks/betterauth">apps</a> and <a href="https://github.com/johnfonte/virulent">circuits</a>.</p>
+        </div>
+        {% include JB/contact %}
+      </div>
       <hr>
       <div class="content">
         {{ content }}

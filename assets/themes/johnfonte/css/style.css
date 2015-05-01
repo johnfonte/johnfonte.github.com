@@ -45,7 +45,7 @@ div.quick > p {
 div.contact > div > a > i{
   margin-right: 10px;
 }
-h5 {
+h3, h4, h5 {
   margin: 0;
 }
 a {
@@ -59,6 +59,9 @@ a:hover {
   text-decoration: underline;
 }
 
+.nav > h4 {
+  float: left;
+}
 li {
   /*list-style: none;*/
 }
@@ -96,24 +99,28 @@ ul.nav li, ul.pagination li {
   .container {
     width: 80%;
   }
+  .content {
+    width: 100%;
+  }
+  .sidebar {
+    display: none;
+  }
 }
 @media (min-width: 760px) {
-  .container {
+  .container, .content {
     width: 610px;
-  }
-  .sidebar {
-    display: block;
-    width: 50px;
-    margin-left: 5px;
   }
 }
-@media (min-width: 960px) {
+/*@media (min-width: 960px) {
   .container {
+    width: 910px;
+  }
+  .content {
     width: 610px;
   }
   .sidebar {
     display: block;
     width: 50px;
     margin-left: 5px;
-  }
+  }*/
 }
