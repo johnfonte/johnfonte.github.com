@@ -10,6 +10,7 @@ tags: ["app development", "subscription software", "google play", "itunes"]
 ## It's Just an App
 The current dominant business model for mobile applications is free with one-time purchases. This model is outdated, incorrect, and harmful to the developer and the consumer - especially when the developer is a single person or very small team.
 <!--more-->
+
 ## The iTunes Store and Google Play
 The iTunes Store and Google Play(as Android Market) launched in 2008. These marketplaces were great sources of innovation - they allowed single developers to create applications for smartphones that would make them money, and it gave consumers apps that they would never think of on their own. Two ideals that carry through to the iTunes Store today are that apps should be tightly controlled, and that the basic price of apps is 'Free'. Google Play shares the second of these ideals, with a reverse approach in control that applies harsh testing to allow an app to become "Verified".
 
