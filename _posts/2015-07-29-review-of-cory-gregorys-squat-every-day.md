@@ -7,7 +7,7 @@ tags: ["bodybuilding.com", "squat every day", "cory gregory"]
 ---
 {% include JB/setup %}
 
-## Review of Cory Gregory's "Squat Every Day"
+## 11 variations, 30 days, April 6th-May 4th
 
 Cory Gregory, founder of MusclePharm, created a program called "Squat Every Day" for bodybuilding.com in April. He has actually been squatting daily for nearly two years at this point. He created a program using 11 different squat variations with the goal being to bring max effort to your squats each day. I jumped in headfirst.
 
