@@ -1,1 +1,1 @@
-Hi! I'm John Fonte, a software engineer at [accesso](http://accesso.com). I build custom websites like [Hybrid](https://hybridperformancemethod.com) and [MFly](http://umich.edu/~mfly).
+Hi! I'm John Fonte, a Software Engineer at [accesso](http://accesso.com). I build custom websites like [Hybrid](https://hybridperformancemethod.com) and [MFly](http://umich.edu/~mfly).
