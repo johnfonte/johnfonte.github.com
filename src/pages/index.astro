@@ -1,0 +1,208 @@
+---
+// src/pages/index.astro
+const title = "John Fonte - Software Engineer";
+const description = "Software Engineer with 10+ years of experience across multiple industries";
+---
+
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <link rel="icon" type="image/svg+xml" href="/public/favicon.svg"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content={description}/>
+    <title>{title}</title>
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content={title}/>
+    <meta property="og:description" content={description}/>
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:title" content={title}/>
+    <meta property="twitter:description" content={description}/>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #2d3748 0%, #1a202c 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 3rem;
+            max-width: 600px;
+            width: 100%;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .container:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, #4299e1, #667eea);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .title {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 2rem;
+            font-weight: 300;
+        }
+
+        .bio {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            margin-bottom: 2rem;
+            color: #555;
+        }
+
+        .skills {
+            margin-bottom: 2rem;
+        }
+
+        .skill-category {
+            margin-bottom: 1.5rem;
+            text-align: left;
+        }
+
+        .skill-category h3 {
+            font-size: 1.1rem;
+            color: #4299e1;
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        .skill-category p {
+            color: #666;
+            font-size: 0.95rem;
+            line-height: 1.6;
+        }
+
+        .education {
+            font-size: 1rem;
+            color: #666;
+            font-style: italic;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #eee;
+        }
+
+        .university {
+            color: #00274C; /* Michigan Blue */
+            font-weight: 600;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 2rem;
+                margin: 1rem;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .bio {
+                font-size: 1rem;
+            }
+
+            .skills {
+                gap: 0.5rem;
+            }
+
+            .skill-category {
+                margin-bottom: 1rem;
+            }
+
+            .skill-category h3 {
+                font-size: 1rem;
+            }
+
+            .skill-category p {
+                font-size: 0.85rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 1rem;
+            }
+
+            .container {
+                padding: 1.5rem;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<main class="container">
+    <h1>John Fonte</h1>
+
+    <div class="bio">
+        <p>
+            I am a Software Engineer with over 10 years of experience architecting scalable systems and leading
+            cross-functional initiatives. My expertise spans full-stack development, cloud infrastructure, and
+            distributed systems, with a proven track record of modernizing legacy applications and delivering
+            mission-critical software.
+        </p>
+    </div>
+
+    <div class="skills">
+        <div class="skill-category">
+            <h3>Backend & Systems</h3>
+            <p>Java • Kotlin • Go • Spring Boot • Microservices • Event-Driven Architecture</p>
+        </div>
+
+        <div class="skill-category">
+            <h3>Frontend & Mobile</h3>
+            <p>TypeScript • React • Node.js • Angular • Progressive Web Apps</p>
+        </div>
+
+        <div class="skill-category">
+            <h3>Cloud & DevOps</h3>
+            <p>AWS • Google Cloud • Azure • Kubernetes • Kafka • CI/CD Pipelines</p>
+        </div>
+
+        <div class="skill-category">
+            <h3>Industries</h3>
+            <p>Education • Entertainment • Healthcare • Automotive • Real Estate</p>
+        </div>
+    </div>
+
+    <div class="education">
+        Graduate of the <span class="university">University of Michigan</span>
+    </div>
+</main>
+</body>
+</html>
